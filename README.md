@@ -1,2 +1,2 @@
 # jojosoundboard
-Soundboard of my favorite jojomemes
+Soundboard of my favorite jojo memes
